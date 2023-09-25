@@ -20,7 +20,7 @@
 
 [*How to Submit*](https://github.com/WhiteMatrixTech/Middle-East-Turkey-Africa-Web3-Hackathon-Competition/blob/main/How%20to%20submit.md)
 
-**Submission DDL:** Dec 15th, 23:59 GMT+4
+**Submission DDL:** October 10, 2023(AST, UTC/GMT+3)  23:59PM 
 
 
 
