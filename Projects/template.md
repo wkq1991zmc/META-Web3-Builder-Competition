@@ -1,7 +1,5 @@
 Project Name:
 
-Job Allocation:
-
 Project Intro:
 
 Video Link:
