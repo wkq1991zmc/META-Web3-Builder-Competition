@@ -1,7 +1,7 @@
 ## META Web3 Builder Competition ##
 
 
-![20230922-140541](https://github.com/WhiteMatrixTech/Middle-East-Turkey-Africa-Web3-Hackathon-Competition-2023/assets/48203810/11a34ae6-0921-45ef-9915-eb66dec4afc3)
+![20230922-140541](https://d3gvnlbntpm4ho.cloudfront.net/META_Web3_Builder_Competition/META_Web3_Builder_Competition.assets/20230922-140541.jpg)
 
 
 
