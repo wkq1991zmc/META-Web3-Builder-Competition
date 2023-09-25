@@ -11,8 +11,7 @@
 4. Fill out the project information.
 5. Name the file `project_name.md`.
 
-![image-20230925185733530](https://d3gvnlbntpm4ho.cloudfront.net/META_Web3_Builder_Competition/META_Web3_Builder_Competition.assets/image-20230925185733530.png)
-
+![image-20230925192010013](https://d3gvnlbntpm4ho.cloudfront.net/META_Web3_Builder_Competition/META_Web3_Builder_Competition.assets/image-20230925192010013.png)
 
 4. Create a pull request and wait for review.
 
