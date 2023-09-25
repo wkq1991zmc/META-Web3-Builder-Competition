@@ -5,31 +5,27 @@
 1. [Fork](https://github.com/WhiteMatrixTech/META-Web3-Builder-Competition/fork) this repository with the **same GitHub account** that you used to submit the project.
 2. In the newly created fork, create a copy of the project template ([`Projects/template.md`](Projects/template.md)). If you're using the GitHub web interface, you will need to create a new file and copy the contents of the project template inside the new one. Make sure you **do not modify the template file directly**.
 
-![image-20230925184915556](C:\Users\white\Desktop\1234.assets\image-20230925184915556.png)
+![image-20230925185623646](https://d3gvnlbntpm4ho.cloudfront.net/META_Web3_Builder_Competition/META_Web3_Builder_Competition.assets/image-20230925185623646.png)
 
 
 4. Fill out the project information.
 5. Name the file `project_name.md`.
 
-![image-20230925185047067](C:\Users\white\Desktop\1234.assets\image-20230925185047067.png)
+![image-20230925185733530](https://d3gvnlbntpm4ho.cloudfront.net/META_Web3_Builder_Competition/META_Web3_Builder_Competition.assets/image-20230925185733530.png)
 
 
-4. Create a pull request and fill out the comment template.
+4. Create a pull request and wait for review.
 
-**6.Click "New pull request" and create a PR(Pull Request).**
+![image-20230925185836937](https://d3gvnlbntpm4ho.cloudfront.net/META_Web3_Builder_Competition/META_Web3_Builder_Competition.assets/image-20230925185836937.png)
 
-![image-20221103160133597](https://d11chu8p22a2zy.cloudfront.net/Middle-East-Turkey-Africa-Web3-Hackathon-Competition/image-20221103160133597.png)
+![image-20230925185934324](https://d3gvnlbntpm4ho.cloudfront.net/META_Web3_Builder_Competition/META_Web3_Builder_Competition.assets/image-20230925185934324.png)
 
-![create_pr.png](https://d11chu8p22a2zy.cloudfront.net/Middle-East-Turkey-Africa-Web3-Hackathon-Competition/create_pr.png)
+![image-20230925190005075](https://d3gvnlbntpm4ho.cloudfront.net/META_Web3_Builder_Competition/META_Web3_Builder_Competition.assets/image-20230925190005075.png)
 
-**7.Convert PR into Draft where all the match-related resources should be placed.**
 
-![image-20221103160557618](https://d11chu8p22a2zy.cloudfront.net/Middle-East-Turkey-Africa-Web3-Hackathon-Competition/image-20221103160557618.png)
 
-![](	
-https://d3f4u6mt7x0ttm.cloudfront.net/8237.png)
 
-**8.Accomplish the project and submit.**
 
-**9.Convert the status of PR into "Ready For Review" as long as the submission has been done. Bootcamp staff will merge all the PRs.**
-![image-20221103160640477](https://d11chu8p22a2zy.cloudfront.net/Middle-East-Turkey-Africa-Web3-Hackathon-Competition/image-20221103160640477.png)
+
+
+
