@@ -19,7 +19,7 @@
 
 **META Web3 Builder Competition**
 
-[*How to Submit*](https://github.com/WhiteMatrixTech/Middle-East-Turkey-Africa-Web3-Hackathon-Competition/blob/main/How%20to%20submit.md)
+[*How to Submit*](https://github.com/WhiteMatrixTech/META-Web3-Builder-Competition/blob/main/How%20to%20submit.md)
 
 **Submission DDL:** October 10, 2023(AST, UTC/GMT+3)  23:59PM 
 
