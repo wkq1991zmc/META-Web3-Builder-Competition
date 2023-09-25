@@ -3,12 +3,18 @@
 !!!  **PR Submission Deadline: October 10, 2023 (AST, UTC/GMT+3) 23:59PM**
 
 1. [Fork](https://github.com/WhiteMatrixTech/META-Web3-Builder-Competition/fork) this repository with the **same GitHub account** that you used to submit the project.
-2. In the newly created fork, create a copy of the project template ([`Projects/template.md`](https://github.com/WhiteMatrixTech/META-Web3-Builder-Competition/blob/main/Projects/template.md)). If you're using the GitHub web interface, you will need to create a new file and copy the contents of the project template inside the new one. Make sure you **do not modify the template file directly**.
+2. In the newly created fork, create a copy of the project template ([`Projects/template.md`](Projects/template.md)). If you're using the GitHub web interface, you will need to create a new file and copy the contents of the project template inside the new one. Make sure you **do not modify the template file directly**.
+
+![image-20230925184915556](C:\Users\white\Desktop\1234.assets\image-20230925184915556.png)
 
 
 4. Fill out the project information.
 5. Name the file `project_name.md`.
-6. Create a pull request and fill out the comment template.
+
+![image-20230925185047067](C:\Users\white\Desktop\1234.assets\image-20230925185047067.png)
+
+
+4. Create a pull request and fill out the comment template.
 
 **6.Click "New pull request" and create a PR(Pull Request).**
 
