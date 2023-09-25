@@ -9,7 +9,7 @@
 
 [**Telegram Group**](https://t.me/ETHRiyadh)
 
-[**META Web3 Builder Competition丨Day 1- Day6 Video**](https://www.youtube.com/@ChainIDE/streams)
+[**META Web3 Builder Competition丨Day 1 - Day 6 Video**](https://www.youtube.com/@ChainIDE/streams)
 
 ---
 
